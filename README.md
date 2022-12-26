@@ -1,4 +1,7 @@
 # Space 50 by jbponce36
+
+![Space 50](https://user-images.githubusercontent.com/12723528/209566530-b985f1ee-9587-4141-b571-89b615b27a5e.png)
+
 ## CS50's Introduction to Game Development
 
 Space 50 is a vertical scroll 2D shooting game based off a mix between Space Invaders and a simple bullet hell.  
