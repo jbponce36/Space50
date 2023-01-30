@@ -8,7 +8,8 @@ Space 50 is a vertical scroll 2D shooting game based off a mix between Space Inv
 It features 3 kinds of enemies with different patterns appearing at random waves and a final boss with different attacks.  
 
 ## Getting started
-From Unity project: Load MainMenuScene.
+- Download from itch.io: https://jbponce.itch.io/space-50
+- From Unity project: Load MainMenuScene.
 
 ## Controls
 - Arrow keys or WASD keys: Move the player.
